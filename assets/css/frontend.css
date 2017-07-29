@@ -1,0 +1,16 @@
+.ywpar_apply_discounts_container{
+    display: none;
+    margin-top: 20px;
+}
+.ywpar-button-message{
+    cursor: pointer;
+}
+.yith-par-message{
+    display: block;
+}
+.yith-par-message.hide{
+    display: none;
+}
+.yith-par-message-variation.hide{
+    display: none;
+}

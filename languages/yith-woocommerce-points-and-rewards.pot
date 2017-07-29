@@ -1,0 +1,1186 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Points and Rewards\n"
+"POT-Creation-Date: 2017-03-16 16:01+0100\n"
+"PO-Revision-Date: 2015-07-30 14:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: Yithemes <plugins@yithemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../includes/admin/yith-wc-points-rewards-customer-history-view.php:22
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:22
+msgid "ID"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customer-history-view.php:23
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:25
+#: ../templates/emails/latest-updates.php:27
+#: ../templates/myaccount/my-points-view.php:45
+msgid "Action"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customer-history-view.php:24
+msgid "Order Num."
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customer-history-view.php:25
+msgid "Amount"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customer-history-view.php:26
+#: ../templates/emails/latest-updates.php:26
+#: ../templates/myaccount/my-points-view.php:44
+msgid "Date"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customer-history-view.php:88
+#, php-format
+msgid "Order #%d"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:23
+msgid "User"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:116
+#: ../includes/class.yith-wc-points-rewards-admin.php:943
+#: ../includes/class.yith-wc-points-rewards-admin.php:975
+msgid "View History"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:158
+msgid "Show All Customers"
+msgstr ""
+
+#: ../includes/admin/yith-wc-points-rewards-customers-view.php:160
+msgid "Filter"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:170
+#: ../includes/class.yith-wc-points-rewards-admin.php:269
+msgid "Customer points"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:231
+msgid ""
+"Are you sure that want reset all points? This process is irreversible"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:232
+msgid "The file import is empty"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:267
+#: ../includes/class.yith-wc-points-rewards-admin.php:1001
+msgid "Settings"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:268
+msgid "Member Role"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:270
+msgid "Extra Points"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:271
+#: ../plugin-options/labels-options.php:10
+msgid "Labels"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:272
+msgid "Expiry Settings"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:273
+msgid "Update Email Settings"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:274
+#: ../plugin-options/messages-options.php:10
+msgid "Messages"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:275
+msgid "Import"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:284
+msgctxt "Plugin name in admin page title"
+msgid "Points and Rewards"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:285
+msgctxt "Plugin name in admin WP menu"
+msgid "Points and Rewards"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:472
+#: ../includes/class.yith-wc-points-rewards-admin.php:672
+#: ../includes/class.yith-wc-points-rewards-admin.php:731
+msgid "Points Earned"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:475
+msgid ""
+"This field allows you to override global and category rules for point "
+"collection.\n"
+" Leave it blank to make global rules o category rules apply, assign a "
+"fixed number of points for this product  (0 for no points) or set a "
+"percent value to apply global or category rules according to percentage "
+"(200&#37; for double points)."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:486
+#: ../includes/class.yith-wc-points-rewards-admin.php:742
+msgid "Validity for extra point reward (optional)"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:487
+#: ../includes/class.yith-wc-points-rewards-admin.php:603
+#: ../includes/class.yith-wc-points-rewards-admin.php:682
+#: ../includes/class.yith-wc-points-rewards-admin.php:744
+msgctxt "placeholder"
+msgid "From&hellip;"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:488
+#: ../includes/class.yith-wc-points-rewards-admin.php:608
+#: ../includes/class.yith-wc-points-rewards-admin.php:683
+#: ../includes/class.yith-wc-points-rewards-admin.php:745
+msgctxt "placeholder"
+msgid "To&hellip;"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:494
+#: ../includes/class.yith-wc-points-rewards-admin.php:690
+#: ../includes/class.yith-wc-points-rewards-admin.php:751
+#: ../plugin-options/general-options.php:103
+#: ../plugin-options/general-options.php:127
+msgid "Maximum discount"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:497
+msgid ""
+"Maximum discount applicable to this product. You can add a constant value "
+"or a percentage value that edits the maximum quantity of points\n"
+"                 that can be used to get a discount according to product "
+"price. This value overrides global and category rules."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:506
+#: ../includes/class.yith-wc-points-rewards-admin.php:594
+#: ../includes/class.yith-wc-points-rewards-admin.php:701
+#: ../includes/class.yith-wc-points-rewards-admin.php:763
+msgid "Reward percent discount (%)"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:509
+msgid ""
+"Discount applicable to this product. This option edits redeem percent "
+"discount that can be applied on product price and overrides global and "
+"category rules."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:577
+msgid "Points Earned:"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:577
+msgid ""
+"This field allows you to override global and category rules for point "
+"collection.\n"
+"                Leave it blank to make global rules o category rules "
+"apply, assign a fixed number of points for this product\n"
+"                (0 for no points) or set a percent value to apply global "
+"or category rules according to percentage (200&#37; for double points)."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:584
+msgid "Maximum discount:"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:585
+msgid ""
+"Maximum discount applicable to this variation. You can add a constant "
+"value or a percentage value that edits the maximum quantity of points\n"
+"                 that can be used to get a discount according to product "
+"price. This value overrides global and category rules."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:595
+msgid ""
+"Discount applicable to this variation.\n"
+"                            This option edits the redeem percent discount "
+"that can be applied on product price. This value overrides global and "
+"category rules."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:602
+msgid "Validity of extra point rewards (optional) - From:"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:607
+msgid "To: "
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:675
+#: ../includes/class.yith-wc-points-rewards-admin.php:734
+msgid ""
+"This field allows you to override global rules for point collection in "
+"all products belonging to this category.\n"
+"                Leave it blank to make global rules apply, assign a fixed "
+"number of points for this category\n"
+"                (0 for no points) or set a percent value to apply global "
+"rules according to percentage (200&#37; for double points).\n"
+"                This value can, in turn, be overridden by rules specified "
+"for single product."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:685
+#: ../includes/class.yith-wc-points-rewards-admin.php:746
+msgid ""
+"You can set a start and end date for validity of rules specified in the "
+"field above"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:693
+msgid ""
+"Maximum discount applicable to products in this category. You can add a "
+"constant value or a percentage value that edits the maximum quantity of "
+"points\n"
+"                 that can be used to get a cart discount according to "
+"product price. This value overrides global rules and can be overridden "
+"by\n"
+"                 rules in single product."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:704
+msgid ""
+"Discount applicable to products in this category. This option edits the "
+"redeem percent discount that can be applied on product price.\n"
+"                    This value overrides global and category rules."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:754
+msgid ""
+"Maximum discount applicable to products in this category. You can add a "
+"constant value or a percent value that edits the maximum quantity of "
+"points\n"
+"                 that can be used to get a cart discount. This value "
+"overrides global rules and can be overridden by\n"
+"                 rules in single product."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:766
+msgid ""
+"Discount applicable to products in this category. This option edits the "
+"percent discount that can be applied to product price.\n"
+"                    This value overrides global and category rules."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:873
+#, php-format
+msgid "<strong>%d</strong> order has been updated"
+msgid_plural "<strong>%d</strong> orders have been updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:893
+#, php-format
+msgid "<strong>%d</strong> point has been updated"
+msgid_plural "<strong>%d</strong> points have been updated"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:911
+msgid "Best Point Earners"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:917
+msgid "Best Point Rewards"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:949
+#: ../includes/class.yith-wc-points-rewards-admin.php:981
+msgid "No users found"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:1003
+msgid "Premium Version"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:1027
+msgid "Plugin Documentation"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-admin.php:1087
+msgid "Done!"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-earning.php:404
+#, php-format
+msgid "Customer earned %d %s for this purchase."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-earning.php:441
+#: ../includes/class.yith-wc-points-rewards-redemption.php:172
+#, php-format
+msgid "Removed %d %s for order %s."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-earning.php:496
+#, php-format
+msgid "Added %d %s for cancelled refund."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-earning.php:567
+#, php-format
+msgid "Removed %d %s for order refund."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-earning.php:606
+#: ../includes/class.yith-wc-points-rewards-redemption.php:141
+#, php-format
+msgid "Added %d %s for order %s."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-earning.php:840
+#: ../plugin-options/labels-options.php:73
+#: ../plugin-options/labels-options.php:76
+#: ../plugin-options/tab-options/extra-points-options.php:5
+msgid "Reviews"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-porting.php:242
+msgid "The CSV is invalid."
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-redemption.php:378
+msgid "Redeem points"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-redemption.php:396
+msgid "Reward Discount Applied Successfully"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards-redemption.php:486
+#, php-format
+msgid "%d %s to get a reward"
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards.php:534
+#: ../includes/widgets/class.yith-wc-points-rewards-widget.php:113
+msgid "Your credit is "
+msgstr ""
+
+#: ../includes/class.yith-wc-points-rewards.php:547
+#: ../includes/widgets/class.yith-wc-points-rewards-widget.php:78
+#, php-format
+msgid "<strong>%s</strong> "
+msgid_plural "<strong>%s</strong> "
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:31
+msgid "Expiring Points"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:32
+msgid "This email is sent to users some days before their points expire."
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:34
+#: ../includes/emails/class.yith-ywpar-update-points.php:34
+msgid "Points and Rewards"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:35
+msgid "[Expiring points]"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:173
+#: ../includes/emails/class.yith-ywpar-update-points.php:155
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:175
+#: ../includes/emails/class.yith-ywpar-update-points.php:157
+msgid "Enable notification for this type of emails"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:179
+#: ../includes/emails/class.yith-ywpar-update-points.php:161
+msgid "From (Name)"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:186
+#: ../includes/emails/class.yith-ywpar-update-points.php:168
+msgid "From (Email Address)"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:193
+#: ../includes/emails/class.yith-ywpar-update-points.php:175
+msgid "Subject"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:195
+#: ../includes/emails/class.yith-ywpar-update-points.php:177
+#, php-format
+msgid ""
+"This field lets you edit email subject line. Leave it blank to use "
+"default subject text: <code>%s</code>."
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:200
+#: ../includes/emails/class.yith-ywpar-update-points.php:182
+msgid "Recipient(s)"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:202
+#: ../includes/emails/class.yith-ywpar-update-points.php:184
+#, php-format
+msgid ""
+"Enter recipients (separated by commas) for this email. Defaults to <code>"
+"%s</code>"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:207
+#: ../includes/emails/class.yith-ywpar-update-points.php:189
+msgid "Send CC copy"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:209
+#: ../includes/emails/class.yith-ywpar-update-points.php:191
+msgid "Send a carbon copy to the user"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:213
+#: ../includes/emails/class.yith-ywpar-update-points.php:195
+msgid "Email Heading"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:215
+#: ../includes/emails/class.yith-ywpar-update-points.php:197
+#, php-format
+msgid ""
+"This field lets you change the main heading in email notification. Leave "
+"it blank to use default heading type: <code>%s</code>."
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:221
+#: ../includes/emails/class.yith-ywpar-update-points.php:203
+msgid "Email Description"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:228
+#: ../includes/emails/class.yith-ywpar-update-points.php:210
+msgid "Email type"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:230
+#: ../includes/emails/class.yith-ywpar-update-points.php:212
+msgid "Choose format for the email that has to be sent."
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:234
+#: ../includes/emails/class.yith-ywpar-update-points.php:216
+msgid "Plain text"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:235
+#: ../includes/emails/class.yith-ywpar-update-points.php:217
+msgid "HTML"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-expiration.php:236
+#: ../includes/emails/class.yith-ywpar-update-points.php:218
+msgid "Multipart"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-update-points.php:31
+#: ../templates/admin/customers-tab.php:16
+msgid "Update Points"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-update-points.php:32
+msgid "This email is sent when user's points have changed"
+msgstr ""
+
+#: ../includes/emails/class.yith-ywpar-update-points.php:35
+msgid "[Points updated]"
+msgstr ""
+
+#: ../includes/widgets/class.yith-wc-points-rewards-widget.php:33
+msgid "Show points collected by the user so far"
+msgstr ""
+
+#: ../includes/widgets/class.yith-wc-points-rewards-widget.php:35
+msgid "YITH WooCommerce Points And Rewards - Point Credit"
+msgstr ""
+
+#: ../includes/widgets/class.yith-wc-points-rewards-widget.php:112
+msgid "My Points"
+msgstr ""
+
+#: ../includes/widgets/class.yith-wc-points-rewards-widget.php:118
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/class.yith-wc-points-rewards-widget.php:123
+msgid "Label:"
+msgstr ""
+
+#: ../init.php:96
+msgid ""
+"YITH WooCommerce Points and Rewards is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:11
+msgid "Expiration Options"
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:26
+msgid "Enable point expiration"
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:34
+msgid "Points valid for (days)"
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:35
+msgid "Type here the number of days for point validity"
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:42
+msgid "Send an email before expiration date"
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:50
+msgid "Days before point expire (days)"
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:51
+msgid "Number of days before point expiration when email will be sent"
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:62
+#: ../plugin-options/update-options.php:35
+msgid "Email content"
+msgstr ""
+
+#: ../plugin-options/expiration-options.php:63
+msgid ""
+"You can use the following placeholders,<br>\n"
+"                {username} = customer's username <br>\n"
+"                {expiring_points} = expiring points <br>\n"
+"                {label_points} = label for points <br>\n"
+"                {expiring_date} = point expiry date<br>\n"
+"                {total_points} = current point credit"
+msgstr ""
+
+#: ../plugin-options/extra-points-options.php:10
+msgid "Settings for Extra Points"
+msgstr ""
+
+#: ../plugin-options/general-options.php:7
+msgid "Apply Points from WooCommerce Points and Rewards"
+msgstr ""
+
+#: ../plugin-options/general-options.php:8
+msgid "You can do this action only one time"
+msgstr ""
+
+#: ../plugin-options/general-options.php:10
+#: ../templates/panel/types/options-import-form.php:75
+msgid "Import points"
+msgstr ""
+
+#: ../plugin-options/general-options.php:24
+msgid "General Settings"
+msgstr ""
+
+#: ../plugin-options/general-options.php:38
+msgid "Enable Points and Rewards"
+msgstr ""
+
+#: ../plugin-options/general-options.php:47
+msgid "Enable Shop Manager to edit customers' points"
+msgstr ""
+
+#: ../plugin-options/general-options.php:55
+msgid "Enable points upon sales"
+msgstr ""
+
+#: ../plugin-options/general-options.php:64
+msgid "Conversion Rate for Points earned"
+msgstr ""
+
+#: ../plugin-options/general-options.php:76
+msgid "Reward Conversion Method"
+msgstr ""
+
+#: ../plugin-options/general-options.php:81
+msgid "None"
+msgstr ""
+
+#: ../plugin-options/general-options.php:82
+msgid "Fixed Price Discount"
+msgstr ""
+
+#: ../plugin-options/general-options.php:83
+msgid "Percentage Discount"
+msgstr ""
+
+#: ../plugin-options/general-options.php:90
+msgid "Reward Percentual Conversion Rate"
+msgstr ""
+
+#: ../plugin-options/general-options.php:104
+msgid ""
+"( in %) Set maximum discount percentuage allowed in cart when redeeming "
+"points."
+msgstr ""
+
+#: ../plugin-options/general-options.php:114
+msgid "Reward Conversion Rate"
+msgstr ""
+
+#: ../plugin-options/general-options.php:128
+msgid ""
+"Set maximum product discount allowed in cart when redeeming points. Leave "
+"blank to disable."
+msgstr ""
+
+#: ../plugin-options/general-options.php:139
+msgid "Minimum Discount Required to Redeem"
+msgstr ""
+
+#: ../plugin-options/general-options.php:140
+msgid ""
+"Set minimum amount of discount to redeem points. Leave blank to disable."
+msgstr ""
+
+#: ../plugin-options/general-options.php:148
+msgid "Maximum discount for single product"
+msgstr ""
+
+#: ../plugin-options/general-options.php:149
+msgid ""
+"Set maximum product discount allowed when redeeming points per-product. "
+"Leave blank to disable."
+msgstr ""
+
+#: ../plugin-options/general-options.php:158
+msgid "Minimum Amount to Redeem"
+msgstr ""
+
+#: ../plugin-options/general-options.php:159
+msgid ""
+"Set minimum amount in the cart to redeem points. Leave blank to disable."
+msgstr ""
+
+#: ../plugin-options/general-options.php:166
+msgid "Allow free shipping to Redeem"
+msgstr ""
+
+#: ../plugin-options/general-options.php:167
+msgid ""
+"Check this box if the coupon grants free shipping. A free shipping method "
+"must be enabled in your shipping zone and be set to require \"a valid "
+"free shipping coupon\"."
+msgstr ""
+
+#: ../plugin-options/general-options.php:174
+msgid "Enable point removal for cancelled orders"
+msgstr ""
+
+#: ../plugin-options/general-options.php:184
+#: ../plugin-options/general-options.php:194
+msgid "Remove points when coupons are used"
+msgstr ""
+
+#: ../plugin-options/general-options.php:195
+msgid ""
+"If you use coupons, their value will be removed from cart total and "
+"consequently points gained will be reduced as well."
+msgstr ""
+
+#: ../plugin-options/general-options.php:203
+msgid "Hide points message for guest"
+msgstr ""
+
+#: ../plugin-options/general-options.php:204
+msgid ""
+"If checked hide points messages in single products, cart and checkout"
+msgstr ""
+
+#: ../plugin-options/general-options.php:211
+msgid "Show points in \"My Account\" page"
+msgstr ""
+
+#: ../plugin-options/general-options.php:212
+msgid "If checked show the points list \"My Account\" page"
+msgstr ""
+
+#: ../plugin-options/general-options.php:219
+msgid "Apply Points to Previous Orders"
+msgstr ""
+
+#: ../plugin-options/general-options.php:220
+msgid "Starting from - Optional: Leave blank to apply to all orders"
+msgstr ""
+
+#: ../plugin-options/general-options.php:222
+msgid "Apply Points"
+msgstr ""
+
+#: ../plugin-options/general-options.php:230
+#: ../plugin-options/general-options.php:234
+msgid "Reset Points"
+msgstr ""
+
+#: ../plugin-options/general-options.php:242
+msgid "Delete the coupon once used"
+msgstr ""
+
+#: ../plugin-options/import-options.php:11
+msgid "Import / Export points from csv file"
+msgstr ""
+
+#: ../plugin-options/import-options.php:25
+msgid "Import points from CVS file"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:24
+msgid "Singular label replacing \"point\""
+msgstr ""
+
+#: ../plugin-options/labels-options.php:27
+msgid "Point"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:32
+msgid "Plural label replacing \"points\""
+msgstr ""
+
+#: ../plugin-options/labels-options.php:35
+#: ../templates/panel/types/options-conversion.php:32
+#: ../templates/panel/types/options-extra-points.php:40
+#: ../templates/panel/types/options-percentual-conversion.php:32
+msgid "Points"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:40
+#: ../plugin-options/labels-options.php:43
+msgid "Order Completed"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:49
+#: ../plugin-options/labels-options.php:52
+msgid "Order Processing"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:57
+#: ../plugin-options/labels-options.php:60
+msgid "Order Cancelled"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:65
+#: ../plugin-options/labels-options.php:68
+msgid "Admin Action"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:81
+#: ../plugin-options/labels-options.php:84
+msgid "Registration"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:89
+msgid "Target - Points"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:92
+msgid "Target achieved - Points collected"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:97
+msgid "Target - Total Amount"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:100
+msgid "Target achieved - Total spend amount"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:105
+msgid "Target - Total Orders"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:108
+msgid "Target achieved - Total Orders"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:113
+#: ../plugin-options/labels-options.php:116
+msgid "Expired Points"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:121
+#: ../plugin-options/labels-options.php:124
+msgid "Order Refund"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:129
+#: ../plugin-options/labels-options.php:132
+msgid "Order Refund Deleted"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:137
+msgid "Redeemed Points"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:140
+msgid "Redeemed Points for order"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:146
+msgid "Apply Discount Button"
+msgstr ""
+
+#: ../plugin-options/labels-options.php:149
+msgid "Apply Discount"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:25
+msgid "Enable Single Product Message"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:33
+msgid "Message position"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:37
+msgid "Before \"Add to cart\" button"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:38
+msgid "After \"Add to cart\" button"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:39
+msgid "Before excerpt"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:40
+msgid "After excerpt"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:41
+msgid "After product meta"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:50
+msgid "Single Product Page Message"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:51
+msgid ""
+"{points} number of points earned;<br>{points_label} label of points;"
+"<br>{price_discount_fixed_conversion} the value corresponding to points "
+msgstr ""
+
+#: ../plugin-options/messages-options.php:53
+msgid ""
+"If you purchase this product you will earn <strong>{points}</strong> "
+"{points_label}! Worth {price_discount_fixed_conversion}!"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:59
+msgid "Show Message in Loop"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:67
+msgid "Loop Message"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:70
+msgid "<strong>{points}</strong> {points_label}"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:75
+msgid "Show Message in Cart"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:83
+msgid "Cart Message"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:86
+#: ../plugin-options/messages-options.php:102
+msgid ""
+"If you proceed to checkout, you will earn <strong>{points}</strong> "
+"{points_label}!"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:91
+msgid "Show Message in Checkout"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:99
+msgid "Checkout Message"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:107
+msgid "Show Reward Message in Cart/Checkout"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:115
+msgid "Rewards Message in Cart/Checkout Page"
+msgstr ""
+
+#: ../plugin-options/messages-options.php:118
+msgid ""
+"Use <strong>{points}</strong> {points_label} for a <strong>{max_discount}"
+"</strong> discount on this order!"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:13
+msgid "Role Settings"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:27
+msgid "User Role enabled to earn points"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:34
+#: ../plugin-options/roles-options.php:77
+msgid "All"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:39
+msgid "Enable Conversion Rate for Points by Roles"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:46
+msgid "Priority Level Conversion"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:50
+msgid "Use the rule with Lowest Conversion Rate"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:51
+msgid "Use the rule with Highest Conversion Rate"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:59
+#, php-format
+msgid "Conversion Rate for Points earned by %s"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:70
+msgid "User Role enabled to redeem points"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:82
+msgid "Enable Reward Points by Roles"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:89
+msgid "Priority Level for Reward Points"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:93
+msgid "Use the rule with Lowest Reward Points"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:94
+msgid "Use the rule with Highest Reward Points"
+msgstr ""
+
+#: ../plugin-options/roles-options.php:102
+#: ../plugin-options/roles-options.php:113
+#, php-format
+msgid "Reward Points for %s"
+msgstr ""
+
+#: ../plugin-options/tab-options/extra-points-options.php:6
+msgid "Number of orders"
+msgstr ""
+
+#: ../plugin-options/tab-options/extra-points-options.php:7
+msgid "Amount spent"
+msgstr ""
+
+#: ../plugin-options/tab-options/extra-points-options.php:8
+msgid "Number of points"
+msgstr ""
+
+#: ../plugin-options/tab-options/extra-points-options.php:9
+msgid "Registration on shop"
+msgstr ""
+
+#: ../plugin-options/update-options.php:10
+msgid "Update Point Options"
+msgstr ""
+
+#: ../plugin-options/update-options.php:26
+msgid "Enable email notification each time points are updated"
+msgstr ""
+
+#: ../plugin-options/update-options.php:37
+msgid "You can use the following placeholders"
+msgstr ""
+
+#: ../plugin-options/update-options.php:38
+msgid "customer's username"
+msgstr ""
+
+#: ../plugin-options/update-options.php:39
+msgid "latest point updates"
+msgstr ""
+
+#: ../plugin-options/update-options.php:40
+msgid "label for points"
+msgstr ""
+
+#: ../plugin-options/update-options.php:41
+msgid "current point credit"
+msgstr ""
+
+#: ../plugin-options/update-options.php:44
+msgid ""
+"Hi {username}, you can find below latest updates about your "
+"{label_points}. {latest_updates} Total is &eacute; {total_points}."
+msgstr ""
+
+#: ../templates/admin/customers-tab.php:2
+msgid "Customer's Points"
+msgstr ""
+
+#: ../templates/admin/customers-tab.php:3
+msgid "Back to list"
+msgstr ""
+
+#: ../templates/admin/customers-tab.php:11
+#, php-format
+msgid "User #%d: %s"
+msgstr ""
+
+#: ../templates/admin/customers-tab.php:21
+msgid "Point history"
+msgstr ""
+
+#: ../templates/admin/customers-tab.php:22
+#, php-format
+msgid "Current points: <strong>%d</strong> "
+msgstr ""
+
+#: ../templates/emails/latest-updates.php:20
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../templates/emails/latest-updates.php:28
+#: ../templates/myaccount/my-points-view.php:46
+msgid "Order No."
+msgstr ""
+
+#: ../templates/myaccount/my-points-view.php:18
+msgid "You must to be logged in to view your points."
+msgstr ""
+
+#: ../templates/myaccount/my-points-view.php:32
+#, php-format
+msgid "My %s"
+msgstr ""
+
+#: ../templates/myaccount/my-points-view.php:34
+msgid "You have"
+msgstr ""
+
+#: ../templates/myaccount/my-points-view.php:34
+#, php-format
+msgid " <strong>%s</strong> "
+msgid_plural " <strong>%s</strong> "
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/myaccount/my-points-view.php:37
+#, php-format
+msgid "My %s History"
+msgstr ""
+
+#: ../templates/panel/types/options-extra-points.php:30
+msgid "Rules"
+msgstr ""
+
+#: ../templates/panel/types/options-extra-points.php:38
+msgid "Option"
+msgstr ""
+
+#: ../templates/panel/types/options-extra-points.php:39
+msgid "Value"
+msgstr ""
+
+#: ../templates/panel/types/options-extra-points.php:41
+msgid "Repeat"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:36
+msgid "Csv Format"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:41
+msgid "User Id / Points"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:43
+msgid "Email / Points"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:48
+#: ../templates/panel/types/options-import-form.php:62
+msgid "Choose the format of csv file"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:52
+msgid "Csv Import Action"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:57
+msgid "Add points to existent points"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:59
+msgid "Override points"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:65
+msgid "Delimiter"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:67
+msgid "Choose the delimiter"
+msgstr ""
+
+#: ../templates/panel/types/options-import-form.php:70
+msgid "Import Points from csv file"
+msgstr ""

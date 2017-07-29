@@ -1,0 +1,27 @@
+<wpml-config>
+    <admin-texts>
+        <key name="yit_ywpar_options">
+          <key name="points_label_singular" />
+          <key name="points_label_plural" />
+          <key name="label_order_completed" />
+          <key name="label_order_cancelled" />
+          <key name="label_admin_action" />
+          <key name="label_reviews_exp" />
+          <key name="label_login_exp" />
+          <key name="label_points_exp" />
+          <key name="label_amount_spent_exp" />
+          <key name="label_num_of_orders_exp" />
+          <key name="label_expired_points" />
+          <key name="label_order_refund" />
+          <key name="label_refund_deleted" />
+          <key name="label_redeemed_points" />
+          <key name="label_apply_discounts" />
+          <key name="single_product_message" />
+          <key name="cart_message" />
+          <key name="checkout_message" />
+          <key name="rewards_cart_message" />
+          <key name="expiration_email_content" />
+          <key name="update_point_email_content" />
+        </key>
+    </admin-texts>
+</wpml-config>
